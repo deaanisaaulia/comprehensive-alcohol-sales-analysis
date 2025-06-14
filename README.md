@@ -13,6 +13,8 @@ This project focuses on analyzing alcohol sales data from June 2017 to September
 5.	How can we use sales patterns to improve marketing, inventory, and supplier relationships?
 
 ## Key Insights
+![alt text](https://github.com/deaanisaaulia/comprehensive-alcohol-sales-analysis/blob/main/Alcohol%20Sales%20Dashboard.png?raw=true)
+
 1.	Beer Dominates the Market : 
 Beer accounts for 62.83% of total revenue, outperforming other categories like wine and liquor by a wide margin.
 2.	Significant Monthly Variations in Sales : 
@@ -22,7 +24,6 @@ A small number of suppliers, including Crown Imports and Miller Brewing Company,
 4.	Preference for 12OZ Packaging : 
 The most sold items (e.g., Corona Extra 12OZ, Heineken 12OZ) suggest a strong consumer preference for smaller, single-serve packaging.
 
-![alt text](https://github.com/deaanisaaulia/comprehensive-alcohol-sales-analysis/blob/main/Alcohol%20Sales%20Dashboard.png?raw=true)
 
 ## Recommendations
 1.	Maximize Focus on Beer Segment : 
