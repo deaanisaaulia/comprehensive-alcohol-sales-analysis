@@ -5,7 +5,8 @@ This project focuses on analyzing alcohol sales data from June 2017 to September
 
 ## Dataset
 This project uses a publicly available dataset obtained from the official U.S. government data portal, data.gov.
-Access it [here](https://github.com/deaanisaaulia/comprehensive-alcohol-sales-analysis/blob/main/Warehouse_and_Retail_Sales.zip)
+
+Access it [here.](https://github.com/deaanisaaulia/comprehensive-alcohol-sales-analysis/blob/main/Warehouse_and_Retail_Sales.zip)
 
 ## Business Questions
 1.	Which product category contributes the most to total sales?
