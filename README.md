@@ -4,6 +4,8 @@
 This project focuses on analyzing alcohol sales data from June 2017 to September 2020, using interactive dashboards to uncover product performance, supplier trends, and consumer preferences. The analysis aims to answer key business questions and support data-driven decision-making.
 
 ## Dataset
+This project uses a publicly available dataset obtained from the official U.S. government data portal, data.gov.
+Access it [here](https://github.com/deaanisaaulia/comprehensive-alcohol-sales-analysis/blob/main/Warehouse_and_Retail_Sales.zip)
 
 ## Business Questions
 1.	Which product category contributes the most to total sales?
