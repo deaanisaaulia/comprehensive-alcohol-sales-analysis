@@ -22,6 +22,8 @@ A small number of suppliers, including Crown Imports and Miller Brewing Company,
 4.	Preference for 12OZ Packaging : 
 The most sold items (e.g., Corona Extra 12OZ, Heineken 12OZ) suggest a strong consumer preference for smaller, single-serve packaging.
 
+![alt text](https://github.com/deaanisaaulia/comprehensive-alcohol-sales-analysis/blob/main/Alcohol%20Sales%20Dashboard.png?raw=true)
+
 ## Recommendations
 1.	Maximize Focus on Beer Segment : 
 Develop promotions, bundles, and campaigns centered on beer to drive growth in the leading category.
