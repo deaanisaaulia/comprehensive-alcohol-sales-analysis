@@ -32,7 +32,7 @@ Create preferred supplier programs or negotiate better terms with top contributo
 4.	Expand Small-Pack Offerings : 
 Increase SKU diversity in the 12OZ segment and test new packaging options that align with consumer demand patterns.
 
-##Tools & Technologies
+## Tools & Technologies
 1.	Excel & Python – for data cleaning and integration
 2.	Tableau – for dashboard development and presentation
 
